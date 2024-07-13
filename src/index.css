@@ -1,0 +1,46 @@
+body {
+  background-color: #5f5f47; /* Light grayish background */
+  margin: 0;
+  font-family: "Arial", sans-serif; /* Simple sans-serif font */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #333; /* Dark text */
+}
+
+code {
+  font-family: "Courier New", Courier, monospace; /* Monospace font for code */
+}
+
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f7e8; /* Light yellow background */
+  color: #333; /* Dark text */
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Light shadow */
+}
+
+h1, h2, h3 {
+  font-family: "Verdana", sans-serif; /* Different sans-serif font for headings */
+  color: #ff5733; /* Coral heading color */
+}
+
+p {
+  line-height: 1.6;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #1abc9c; /* Turquoise button */
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #16a085; /* Darker turquoise on hover */
+}
