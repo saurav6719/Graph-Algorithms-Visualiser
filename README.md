@@ -1,5 +1,12 @@
 # Graph Algorithms Visualizer
 
+
+## Demo 
+
+https://graph-algorithms-visualiser-2yv8ksnrl-saurav6719s-projects.vercel.app/
+
+---
+
 Welcome to the Graph Algorithms Visualizer! This application provides an interactive platform to visualize various pathfinding algorithms on a grid-based environment.
 
 ## Features
